@@ -1,3 +1,3 @@
-Timestamp,Email Address,Student ID,Which exam format do you prefer?,"If remote, why?",Can you take the exam at the scheduled time?,What times are you available to take the exam?,Are there any other accommodations you'd like us to know?,"The alternate midterm time is [date], [time] PT. Can you take the exam at this time?"
+Timestamp,Email Address,Student ID,Which exam format do you prefer?,"If remote, why?",Can you take the exam at the scheduled time?,"If you can't make the alternate time, what times are you available to take the exam?",Are there any other accommodations you'd like us to know?,"The alternate midterm time is [date], [time] PT. Can you take the exam at this time?"
 ,evanbot@berkeley.edu,3031234567,,,,,,
 ,,3033456789,,,,,,
