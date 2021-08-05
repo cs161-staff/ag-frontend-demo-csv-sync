@@ -1,4 +1,0 @@
-Student ID,Name,Email,Start Day,Start Time,End Time,Format,Deadline (for exam tool),No Watermark (for exam tool),Proctoring link (if remote),Accommodations,Notes
-3031234567,EvanBot,evanbot@berkeley.edu,1/1/2021,12:00:00 AM,1:00 AM,Remote,1609488000,1,,None,Hello
-3032345678,CodaBot,codabot@berkeley.edu,10/1/2021,5:00:00 PM,8:00 PM,In-person,1633143600,1,,150% DSP,
-3033456789,PintoBot,pintobot@berkeley.edu,10/1/2021,5:00:00 PM,9:00 PM,Test format,1633147200,1,,Test accommodations,
